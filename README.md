@@ -23,20 +23,20 @@ The notebook retrieves data on the first 1000 Pokémon using PokeAPI and perform
 
 # 📊 Key Analysis & Visualizations
 
-##🔝 Top 5 Tallest Pokémon
+## 🔝 Top 5 Tallest Pokémon
 A horizontal bar chart highlighting the tallest Pokémon by height (in meters).
 
-##⚖️ Weight Distribution by Main Type
+## ⚖️ Weight Distribution by Main Type
 Boxplot showing how weight varies by primary type (e.g., Fire, Water, etc.).
 
-##🔁 Single vs Dual Type Pokémon
+## 🔁 Single vs Dual Type Pokémon
 A donut-style pie chart showing the proportion of Pokémon with one or two types.
 
-##📐 Average Size by Type
+## 📐 Average Size by Type
 A stylized table summarizing the mean height and weight for each primary type.
 
-##🔥 Most Common Type Combinations
+## 🔥 Most Common Type Combinations
 A heatmap showing the most frequent type_1 and type_2 combinations (Top 5 of each).
 
-##🧮 Pokémon BMI Calculation
+## 🧮 Pokémon BMI Calculation
 A simple BMI-like metric calculated from weight and height, identifying the Pokémon with the highest and lowest values.
