@@ -1,4 +1,3 @@
-# Pokémon API EDA
 # 🧬 Pokémon API Data Analysis
 
 This project analyzes Pokémon data fetched from the [PokeAPI](https://pokeapi.co/) using Python. It focuses on basic exploration and visualization of Pokémon characteristics such as height, weight, type combinations, and BMI-like metrics.
