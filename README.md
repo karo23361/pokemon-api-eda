@@ -114,11 +114,18 @@ This illustrates patterns in type-pairing logic. Common pairs often come from ea
 A pseudo-BMI metric (weight / height²) was used to compare body mass relative to size.
 
 - 🪨 Highest BMI: Cosmoem — ~99,999
+
+![image](https://github.com/user-attachments/assets/6cc62402-4e2a-4cc2-9db0-829ab69d255e)
+
+
 Despite being only 0.1 meters tall, Cosmoem weighs 999.9 kg. This is likely intentional, symbolizing its dense, dormant form during evolution — making it a clear outlier and a great example of lore affecting data.
 
 - 👻 Lowest BMI: Haunter — ~0.039
+
+![image](https://github.com/user-attachments/assets/bfeb67b8-3464-48b2-a6c2-4ba8bf138c55)
+
+
 Haunter, being a Ghost-type, is characterized by its gas-like, intangible body. This low value aligns with its design and lore — it's practically weightless despite having volume.
 
-This BMI-like metric helps contextualize how mass relates to concept — whether biological, mystical, or mechanical.
 
 
