@@ -31,18 +31,23 @@ A horizontal bar chart highlighting the tallest Pokémon by height (in meters).
 The tallest Pokémon in the dataset are:
 
 - Eternatus – 20.0 meters
+  
 ![image](https://github.com/user-attachments/assets/ce3cc826-d277-4182-b6ea-28886426d3a5)
 
 - Wailord – 14.5 meters
+  
 ![image](https://github.com/user-attachments/assets/e3420af0-ff6a-447d-bfc6-2c0670701f79)
 
 - Dondozo – 12.0 meters
+  
 ![image](https://github.com/user-attachments/assets/4690023e-91f2-45eb-9487-4260ede893c6)
 
 - Steelix – 9.2 meters
+  
 ![image](https://github.com/user-attachments/assets/32bf7418-afef-464d-b6a6-18e46273db2f)
 
 - Celesteela – 9.2 meters
+  
 ![image](https://github.com/user-attachments/assets/a8fc5df0-4883-4e7c-9c21-a26940cbbd04)
 
 These extreme values are mostly attributed to Legendary or massive aquatic Pokémon, whose design often emphasizes size for visual impact or lore.
